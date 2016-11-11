@@ -1,6 +1,6 @@
 # Choices
 
-**TODO: Add description**
+An Elixir demo CLI app that prints out choices.
 
 ## Installation
 
